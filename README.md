@@ -1,1 +1,1 @@
-# Terrorism-Dynamics-Countermeasures
+# Understanding Terrorism Dynamics & Implementing Countermeasures
