@@ -1,7 +1,7 @@
 
 # Understanding Terrorism Dynamics & Implementing Countermeasures
 
-**Authors**: Shubham Deokar, Karan Sutariya, Abhay Tiwari, Priyanshu Dixit
+**Contributors**: Shubham Deokar, Karan Sutariya, Abhay Tiwari, Priyanshu Dixit
 
 ## Abstract
 
